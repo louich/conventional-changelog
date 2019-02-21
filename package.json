@@ -72,6 +72,7 @@
     "conventional-changelog-ember": "file:packages/conventional-changelog-ember",
     "conventional-changelog-eslint": "file:packages/conventional-changelog-eslint",
     "conventional-changelog-express": "file:packages/conventional-changelog-express",
+    "conventional-changelog-gitmoji": "file:packages/conventional-changelog-gitmoji",
     "conventional-changelog-jquery": "file:packages/conventional-changelog-jquery",
     "conventional-changelog-jshint": "file:packages/conventional-changelog-jshint",
     "conventional-changelog-preset-loader": "file:packages/conventional-changelog-preset-loader",
